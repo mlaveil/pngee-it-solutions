@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+<meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Backup Is Not Disaster Recovery | PNGee IT Solutions</title><meta name="description" content="Understand the difference between backup, restore testing, RPO, RTO and business disaster recovery.">
+<link rel="canonical" href="https://pngee-it-solutions.pngee.workers.dev/insights-backup-vs-disaster-recovery.html">
+<meta property="og:type" content="article"><meta property="og:title" content="Backup Is Not Disaster Recovery | PNGee IT Solutions"><meta property="og:description" content="Understand the difference between backup, restore testing, RPO, RTO and business disaster recovery.">
+<script src="https://cdn.tailwindcss.com"></script>
+<style>@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap');body{font-family:Inter,sans-serif}</style>
+</head><body class="bg-[#0f172a] text-slate-100 antialiased">
+<header class="border-b border-slate-800"><div class="max-w-5xl mx-auto px-4 sm:px-6 py-6 flex items-center justify-between"><a href="/" class="font-bold text-xl">PNGee <span class="text-blue-500">IT Solutions</span></a><a href="/knowledge.html" class="text-sm text-blue-400 hover:text-blue-300">Engineering Insights</a></div></header>
+<main><article class="max-w-3xl mx-auto px-4 sm:px-6 py-16">
+<p class="text-xs font-bold uppercase tracking-widest text-blue-400">Engineering Insight</p><h1 class="text-4xl sm:text-5xl font-extrabold mt-3 mb-6">Backup Is Not Disaster Recovery</h1><p class="text-lg text-slate-400 leading-relaxed mb-10">Understand the difference between backup, restore testing, RPO, RTO and business disaster recovery.</p>
+<div class="prose prose-invert max-w-none text-slate-300 leading-8 space-y-6">
+<h2 class="text-2xl font-bold text-white mt-10">A backup is a copy; recovery is a capability</h2>
+<p>Having backup files does not prove that the business can restore critical systems within an acceptable timeframe. Disaster recovery includes the people, procedures, credentials, dependencies and infrastructure required to turn those copies back into working services.</p>
+<h2 class="text-2xl font-bold text-white mt-10">Two questions matter: RPO and RTO</h2>
+<p>The Recovery Point Objective defines how much recent data the business can afford to lose. The Recovery Time Objective defines how long the business can tolerate the service being unavailable. Backup frequency and recovery architecture should be designed around those requirements.</p>
+<h2 class="text-2xl font-bold text-white mt-10">Common failure patterns</h2>
+<p>Typical weaknesses include backups stored only beside the production system, credentials shared with the production environment, no immutable or offline copy, no monitoring of failed jobs and no documented restore procedure.</p>
+<h2 class="text-2xl font-bold text-white mt-10">Test restores, not just backup jobs</h2>
+<p>A green “backup successful” status only confirms that a job completed. Periodic restore testing verifies that the data is usable, the process is understood and dependencies have not been missed.</p>
+<h2 class="text-2xl font-bold text-white mt-10">Design for business continuity</h2>
+<p>The correct solution may combine local recovery speed with offsite resilience. The important point is to identify what must be restored first, who is authorised to do it, and what infrastructure is required if the primary site or equipment is unavailable.</p></div>
+<div class="mt-12 border-t border-slate-800 pt-8"><p class="text-sm text-slate-500">This article provides general engineering guidance. Specific environments should be assessed before configuration changes are made.</p></div>
+</article></main>
+<footer class="border-t border-slate-800 bg-[#0b1120]"><div class="max-w-5xl mx-auto px-4 sm:px-6 py-8 text-xs text-slate-500">© 2026 PNGee IT Solutions · Port Moresby, Papua New Guinea</div></footer>
+</body></html>
