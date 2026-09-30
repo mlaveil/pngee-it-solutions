@@ -4,7 +4,7 @@
 
 - Repositioned the homepage around reliability, security and resilience.
 - Expanded services to cover business networking, Wi-Fi, firewall/security, audits, backup/continuity, VPN and infrastructure consulting.
-- Productised the K450 Network & Security Health Check.
+- Productised the PGK 750 Network & Security Health Check.
 - Added a managed-support section to establish a recurring-revenue path.
 - Added a four-step sales/service process.
 - Added FAQ content and FAQ structured data.
