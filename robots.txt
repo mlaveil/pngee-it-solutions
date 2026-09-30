@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://pngee-it-solutions.pngee.workers.dev/sitemap.xml
+Sitemap: https://pngeeitsolutions.com/sitemap.xml
