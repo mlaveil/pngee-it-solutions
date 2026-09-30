@@ -21,8 +21,8 @@
 These require account/domain details before production integration:
 
 1. **Custom domain**
-   - Preferred: a PNGee-owned production domain.
-   - Update canonical, Open Graph URL, structured-data URL, robots.txt and sitemap.xml after DNS is live.
+   - Production domain active: https://pngeeitsolutions.com.
+   - Canonical, Open Graph, structured-data, robots.txt and sitemap references updated to the production domain.
    - Redirect the workers.dev hostname to the production hostname where practical.
 
 2. **Domain email**
