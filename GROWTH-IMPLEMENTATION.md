@@ -16,6 +16,24 @@
 - Added an inline privacy notice.
 - Added robots.txt and sitemap.xml.
 
+## Phase 1B implemented
+
+- Repositioned the homepage to actively market PNGee as a website, web application, SaaS MVP, managed support, Cloudflare/domain/email, IT/network and cybersecurity provider for PNG businesses.
+- Added first-viewport messaging: "Secure websites, cloud applications and IT solutions built for PNG businesses."
+- Added a dedicated Websites, Apps & SaaS MVPs section covering:
+  - business website development;
+  - website redesign and modernisation;
+  - custom web applications;
+  - custom SaaS and MVP development;
+  - domain, Cloudflare, DNS and business email setup;
+  - managed website support.
+- Preserved the accuracy boundary: PNGee can deliver custom SaaS/MVP projects, but the site does not imply mature off-the-shelf SaaS subscription products already exist.
+- Updated the managed-support section to include website care alongside network and security support.
+- Added trust/credibility messaging around security-aware delivery, Cloudflare/domain/email experience and incremental MVP delivery.
+- Replaced the basic contact block with a structured lead-generation enquiry flow for service need, budget, timeframe, contact preference and project details.
+- The lead form generates a local email or WhatsApp enquiry to `mark@pngeeitsolutions.com` / `+675 7100 5220`; no backend or customer data storage is introduced yet.
+- Updated page metadata, Open Graph copy, ProfessionalService structured data and FAQ structured data for the broader commercial offer.
+
 ## Phase 2 — external setup required
 
 These require account/domain details before production integration:
@@ -26,8 +44,9 @@ These require account/domain details before production integration:
    - Redirect the workers.dev hostname to the production hostname where practical.
 
 2. **Domain email**
-   - Replace mark@pngeeitsolutions.com with a branded address such as hello@<domain>.
-   - Keep a separate support@<domain> for managed-service customers.
+   - Primary public business identity is `mark@pngeeitsolutions.com`.
+   - Keep role addresses such as `info@`, `sales@`, `support@` and `billing@` routed through the chosen mail flow.
+   - Complete outbound sending authentication with SPF, DKIM and DMARC before scaling website forms or CRM notifications.
 
 3. **Online scheduling**
    - Create a Cal.com booking page for:
@@ -46,6 +65,7 @@ These require account/domain details before production integration:
      - Won
      - Managed Service
    - Route website enquiries to CRM once a secure form backend is added.
+   - Preserve the current static lead form as a fallback path to email/WhatsApp until CRM capture is production-ready.
 
 5. **Secure form backend**
    - Prefer a Cloudflare Worker endpoint.
@@ -69,12 +89,19 @@ These require account/domain details before production integration:
    - Begin requesting reviews from completed customer engagements.
 
 8. **WhatsApp Business**
-   - Add a business number and pre-filled enquiry link after the number is confirmed.
+   - Current WhatsApp Business number: `+675 7100 5220`.
+   - Continue using pre-filled enquiry links for website, support and health-check pathways.
 
 ## Phase 3 — content expansion
 
 Build dedicated landing pages once the custom domain is selected:
 
+- /website-development
+- /website-redesign
+- /custom-web-applications
+- /saas-mvp-development
+- /domain-cloudflare-business-email
+- /managed-website-support
 - /business-network-wifi
 - /cybersecurity-firewall
 - /network-security-health-check
