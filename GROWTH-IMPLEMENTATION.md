@@ -26,7 +26,7 @@ These require account/domain details before production integration:
    - Redirect the workers.dev hostname to the production hostname where practical.
 
 2. **Domain email**
-   - Replace pngeeitservices@gmail.com with a branded address such as hello@<domain>.
+   - Replace mark@pngeeitsolutions.com with a branded address such as hello@<domain>.
    - Keep a separate support@<domain> for managed-service customers.
 
 3. **Online scheduling**
