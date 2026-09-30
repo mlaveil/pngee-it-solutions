@@ -1,42 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://pngee-it-solutions.pngee.workers.dev/</loc>
+    <loc>https://pngeeitsolutions.com/</loc>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://pngee-it-solutions.pngee.workers.dev/business-network-wifi.html</loc>
+    <loc>https://pngeeitsolutions.com/business-network-wifi.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://pngee-it-solutions.pngee.workers.dev/cybersecurity-firewall.html</loc>
+    <loc>https://pngeeitsolutions.com/cybersecurity-firewall.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://pngee-it-solutions.pngee.workers.dev/network-security-health-check.html</loc>
+    <loc>https://pngeeitsolutions.com/network-security-health-check.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://pngee-it-solutions.pngee.workers.dev/backup-business-continuity.html</loc>
+    <loc>https://pngeeitsolutions.com/backup-business-continuity.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://pngee-it-solutions.pngee.workers.dev/vpn-remote-access.html</loc>
+    <loc>https://pngeeitsolutions.com/vpn-remote-access.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://pngee-it-solutions.pngee.workers.dev/managed-it.html</loc>
+    <loc>https://pngeeitsolutions.com/managed-it.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-  <url><loc>https://pngee-it-solutions.pngee.workers.dev/knowledge.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://pngee-it-solutions.pngee.workers.dev/insights-office-wifi-slow.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://pngee-it-solutions.pngee.workers.dev/insights-vlans-small-business.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://pngee-it-solutions.pngee.workers.dev/insights-backup-vs-disaster-recovery.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://pngeeitsolutions.com/knowledge.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://pngeeitsolutions.com/insights-office-wifi-slow.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://pngeeitsolutions.com/insights-vlans-small-business.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://pngeeitsolutions.com/insights-backup-vs-disaster-recovery.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
 </urlset>
