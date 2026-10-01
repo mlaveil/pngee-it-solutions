@@ -86,3 +86,27 @@ Build dedicated landing pages once the custom domain is selected:
 - /knowledge
 
 Do not publish customer names, employer information, certifications, project metrics or testimonials until they are explicitly verified and approved.
+
+
+## Phase 4 — Digital Solutions Expansion
+
+Implemented on `feature/digital-solutions-expansion`.
+
+- Repositioned PNGee from a network/security-first website to a broader technology engineering business.
+- New homepage positioning: IT, Cybersecurity and Software.
+- Added first-class service pillars for:
+  - Website Development
+  - Web Application Development
+  - SaaS Development
+  - IT Infrastructure & Cybersecurity
+- Added business-problem-to-digital-solution examples.
+- Added PNGee Software section with PNGee SME Manager marked clearly as In Development.
+- Added a five-stage development lifecycle: Discover, Design, Build, Deploy, Support.
+- Preserved existing infrastructure, cybersecurity, Managed IT and Health Check offerings.
+- Added dedicated landing pages:
+  - /website-development.html
+  - /web-app-development.html
+  - /saas-development.html
+- Expanded homepage structured data and SEO metadata for software-development services.
+- Updated sitemap with the new commercial landing pages.
+- Preserved current Cal.com, WhatsApp and domain-email contact routes.
