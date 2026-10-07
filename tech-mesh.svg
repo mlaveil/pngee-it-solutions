@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" fill="none">
+<defs>
+ <linearGradient id="c" x1="80" y1="60" x2="1120" y2="840" gradientUnits="userSpaceOnUse"><stop stop-color="#22d3ee" stop-opacity=".12"/><stop offset=".48" stop-color="#38bdf8" stop-opacity=".28"/><stop offset="1" stop-color="#2563eb" stop-opacity=".08"/></linearGradient>
+ <radialGradient id="n"><stop stop-color="#67e8f9" stop-opacity=".9"/><stop offset=".32" stop-color="#22d3ee" stop-opacity=".34"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></radialGradient>
+ <filter id="g" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="8"/></filter>
+</defs>
+<g stroke="url(#c)" stroke-width="1">
+ <path d="M-40 150L120 90 255 185 405 95 565 210 735 120 895 220 1070 105 1240 175"/>
+ <path d="M-30 330L145 245 315 350 470 250 650 365 805 270 980 370 1220 285"/>
+ <path d="M-60 525L110 430 280 535 445 420 610 555 790 445 960 560 1125 455 1260 520"/>
+ <path d="M-20 735L165 625 330 745 510 620 675 760 845 635 1020 745 1230 650"/>
+ <path d="M120 90L145 245 110 430 165 625M255 185L315 350 280 535 330 745M405 95L470 250 445 420 510 620M565 210L650 365 610 555 675 760M735 120L805 270 790 445 845 635M895 220L980 370 960 560 1020 745M1070 105L1220 285 1125 455 1230 650"/>
+ <path d="M145 245L405 95M315 350L565 210M470 250L735 120M650 365L895 220M805 270L1070 105M110 430L315 350M280 535L470 250M445 420L650 365M610 555L805 270M790 445L980 370M960 560L1220 285M165 625L280 535M330 745L445 420M510 620L610 555M675 760L790 445M845 635L960 560M1020 745L1125 455"/>
+</g>
+<g fill="#67e8f9">
+ <circle cx="145" cy="245" r="2.2"/><circle cx="315" cy="350" r="2"/><circle cx="470" cy="250" r="2.5"/><circle cx="650" cy="365" r="2"/><circle cx="805" cy="270" r="2.5"/><circle cx="980" cy="370" r="2"/><circle cx="280" cy="535" r="2"/><circle cx="610" cy="555" r="2.6"/><circle cx="790" cy="445" r="2"/><circle cx="960" cy="560" r="2.5"/><circle cx="510" cy="620" r="2"/><circle cx="845" cy="635" r="2.3"/>
+</g>
+<g filter="url(#g)">
+ <circle cx="470" cy="250" r="26" fill="url(#n)"/><circle cx="790" cy="445" r="30" fill="url(#n)"/><circle cx="280" cy="535" r="22" fill="url(#n)"/><circle cx="1020" cy="745" r="24" fill="url(#n)"/>
+</g>
+</svg>
