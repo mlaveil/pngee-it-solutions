@@ -42,7 +42,7 @@
     .png-accent{height:3px;background:linear-gradient(90deg,var(--red),var(--gold) 48%,var(--red));opacity:.9}
     .cover-finale{min-height:clamp(260px,42vw,540px);background:linear-gradient(90deg,rgba(7,11,20,.92),rgba(7,11,20,.22) 52%,rgba(7,11,20,.7)),url('/pngee-business-cover.png') center/cover no-repeat;border-top:1px solid rgba(148,163,184,.18);border-bottom:1px solid rgba(148,163,184,.18)}
     @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}.reveal{opacity:1;transform:none;transition:none}.v2-card{transition:none}.v2-glow{display:none}.v2-section::after{will-change:auto}}
-    @media(max-width:640px){.cover-finale{min-height:330px;background-position:32% center}.v2-card:hover{transform:none}}
+    @media(max-width:640px){.cover-finale{min-height:0;aspect-ratio:3/1;background-image:url('/pngee-business-cover.png');background-size:contain;background-position:center;background-repeat:no-repeat;background-color:#050912}.cover-finale>div{display:none}.v2-card:hover{transform:none}}
   </style>
   <script type="application/ld+json">
   {
