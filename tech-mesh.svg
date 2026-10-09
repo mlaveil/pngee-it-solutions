@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" fill="none">
 <defs>
- <linearGradient id="c" x1="80" y1="60" x2="1120" y2="840" gradientUnits="userSpaceOnUse"><stop stop-color="#22d3ee" stop-opacity=".12"/><stop offset=".48" stop-color="#38bdf8" stop-opacity=".28"/><stop offset="1" stop-color="#2563eb" stop-opacity=".08"/></linearGradient>
- <radialGradient id="n"><stop stop-color="#67e8f9" stop-opacity=".9"/><stop offset=".32" stop-color="#22d3ee" stop-opacity=".34"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></radialGradient>
+ <linearGradient id="c" x1="80" y1="60" x2="1120" y2="840" gradientUnits="userSpaceOnUse"><stop stop-color="#a80f2b" stop-opacity=".12"/><stop offset=".48" stop-color="#c58a08" stop-opacity=".28"/><stop offset="1" stop-color="#8f1025" stop-opacity=".08"/></linearGradient>
+ <radialGradient id="n"><stop stop-color="#d7a42a" stop-opacity=".9"/><stop offset=".32" stop-color="#a80f2b" stop-opacity=".34"/><stop offset="1" stop-color="#a80f2b" stop-opacity="0"/></radialGradient>
  <filter id="g" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="8"/></filter>
 </defs>
 <g stroke="url(#c)" stroke-width="1">
@@ -12,7 +12,7 @@
  <path d="M120 90L145 245 110 430 165 625M255 185L315 350 280 535 330 745M405 95L470 250 445 420 510 620M565 210L650 365 610 555 675 760M735 120L805 270 790 445 845 635M895 220L980 370 960 560 1020 745M1070 105L1220 285 1125 455 1230 650"/>
  <path d="M145 245L405 95M315 350L565 210M470 250L735 120M650 365L895 220M805 270L1070 105M110 430L315 350M280 535L470 250M445 420L650 365M610 555L805 270M790 445L980 370M960 560L1220 285M165 625L280 535M330 745L445 420M510 620L610 555M675 760L790 445M845 635L960 560M1020 745L1125 455"/>
 </g>
-<g fill="#67e8f9">
+<g fill="#d7a42a">
  <circle cx="145" cy="245" r="2.2"/><circle cx="315" cy="350" r="2"/><circle cx="470" cy="250" r="2.5"/><circle cx="650" cy="365" r="2"/><circle cx="805" cy="270" r="2.5"/><circle cx="980" cy="370" r="2"/><circle cx="280" cy="535" r="2"/><circle cx="610" cy="555" r="2.6"/><circle cx="790" cy="445" r="2"/><circle cx="960" cy="560" r="2.5"/><circle cx="510" cy="620" r="2"/><circle cx="845" cy="635" r="2.3"/>
 </g>
 <g filter="url(#g)">
